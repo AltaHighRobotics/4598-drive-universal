@@ -50,8 +50,8 @@ public final class Constants {
     public static final double kDriveMotorGearRatio = 6.75;
     public static final double kTurningMotorGearRatio = 150.0 / 7.0;
 
-    public static final double kTrackWidth = Units.inchesToMeters(21.5);
-    public static final double kWheelBase = Units.inchesToMeters(21.5);
+    public static final double kTrackWidth = Units.inchesToMeters(23);
+    public static final double kWheelBase = Units.inchesToMeters(23);
 
     public static final SwerveDriveKinematics kDriveKinematics = new SwerveDriveKinematics(
         new Translation2d(kWheelBase / 2.0, kTrackWidth / 2.0),
