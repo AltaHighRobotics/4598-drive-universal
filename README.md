@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/logos/icaruslogo.png" alt="Icarus Logo" width="200"/>
+  <img src="media/logos/icaruslogo.png" alt="Icarus Logo" width="85%"/>
 </p>
 
 <h1 align="center">4598 Drive Base Universal</h1>
