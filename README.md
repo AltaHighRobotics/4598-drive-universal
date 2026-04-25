@@ -1,5 +1,14 @@
-# 4598 ICARUS INNOVATED DriveBase Template
-A template for 4598's drivebase, taking advantage of SDS MK4i swerve modules and kracken X60 motors. All of this code has been copied from our 25-26 Rebuilt code base, stripped down to just the drive related code and turned into a template we can use in our future years.
+<p align="center">
+  <img src="media/logos/icaruslogo.png" alt="Icarus Logo" width="200"/>
+</p>
+
+<h1 align="center">4598 Drive Base Universal</h1>
+
+<p align="center">
+  A universal swerve/drivebase framework for FRC Team 4598
+</p>
+
+This for 4598's drivebase takes advantage of SDS MK4i swerve modules and kracken X60 motors. All of this code has been copied from our 25-26 Rebuilt code base, stripped down to just the drive related code and turned into a template we can use in our future years.
 
 ## Configuration
 All configuration for this setup is done in a single `Constants.java` in the root of the source code. You are able to define things like CAN ids, power limits, gear ratios, PID values, motor inversions, wheelbase sizing, offset CoR amounts, and several other core part of your robot's main driving funtionality.
