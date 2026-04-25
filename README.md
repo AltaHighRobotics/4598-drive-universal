@@ -2,7 +2,7 @@
 A template for 4598's drivebase, taking advantage of SDS MK4i swerve modules and kracken X60 motors. All of this code has been copied from our 25-26 Rebuilt code base, stripped down to just the drive related code and turned into a template we can use in our future years.
 
 ## Configuration
-All configuration for this setup is done in a single `Constants.java` in the root of the source code. You are able to define things like CAD ids, power limits, gear ratios, PID values, motor inversions, wheelbase sizing, offset CoR amounts, and several other core part of your robot's main driving funtionality.
+All configuration for this setup is done in a single `Constants.java` in the root of the source code. You are able to define things like CAN ids, power limits, gear ratios, PID values, motor inversions, wheelbase sizing, offset CoR amounts, and several other core part of your robot's main driving funtionality.
 
 The current configuration has been set up for the following robot configuration:
 
